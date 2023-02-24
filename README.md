@@ -23,8 +23,15 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+configmodule 설치
+npm add @nestjs/config
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+passport 설치
+npm install @nestjs/passport passport @types/passport-local passport-local @types/express
+
+bcrypt 설치
+npm add bcrypt
+npm add @types/bcrypt -D
 
 ## Installation
 
